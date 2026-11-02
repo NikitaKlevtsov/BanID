@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|c:\\users\\user\\desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u043A\u043B\u0435\u0432\u0446\u043E\u0432 \u043D \u0443\u043F\\banid\\banid\\cabinetwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|solutionrelative:banid\\cabinetwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\banid\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|solutionrelative:banid\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\banid\\createrequestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|solutionrelative:banid\\createrequestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\banid\\statementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|solutionrelative:banid\\statementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\banid\\cabinetwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|solutionrelative:banid\\cabinetwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\banid\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|solutionrelative:banid\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\banid\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|solutionrelative:banid\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\banid\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|solutionrelative:banid\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\banid\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|solutionrelative:banid\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\banid\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|solutionrelative:banid\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\banid\\createrequestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|solutionrelative:banid\\createrequestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\1078c39bb09b6f4ecea089a7288e7cc8a0cc8239fa8026329de27027ba0a0560\\Application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\banid\\models\\personaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|solutionrelative:banid\\models\\personaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\banid\\helpers\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|solutionrelative:banid\\helpers\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\banid\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|solutionrelative:banid\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\banid\\helpers\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|solutionrelative:banid\\helpers\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\banid\\helpers\\captchahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|solutionrelative:banid\\helpers\\captchahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\banid\\statementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|solutionrelative:banid\\statementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\banid\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8CF381B2-922F-441C-8182-DCA4680A2FD1}|BanID\\BanID.csproj|solutionrelative:banid\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\App.xaml",
+              "RelativeDocumentMoniker": "BanID\\App.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\App.xaml",
+              "RelativeToolTip": "BanID\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-22T14:34:59.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CabinetWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\CabinetWindow.xaml",
+              "RelativeDocumentMoniker": "BanID\\CabinetWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\CabinetWindow.xaml",
+              "RelativeToolTip": "BanID\\CabinetWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-21T11:56:59.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StatementWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\StatementWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BanID\\StatementWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\StatementWindow.xaml.cs",
+              "RelativeToolTip": "BanID\\StatementWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:58:38.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateRequestWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\CreateRequestWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BanID\\CreateRequestWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\CreateRequestWindow.xaml.cs",
+              "RelativeToolTip": "BanID\\CreateRequestWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:59:51.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\App.config",
+              "RelativeDocumentMoniker": "BanID\\App.config",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\App.config",
+              "RelativeToolTip": "BanID\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-21T12:26:49.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BanID\\RegisterWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "BanID\\RegisterWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:56:24.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CabinetWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\CabinetWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BanID\\CabinetWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\CabinetWindow.xaml.cs",
+              "RelativeToolTip": "BanID\\CabinetWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:57:38.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "BanID\\RegisterWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\RegisterWindow.xaml",
+              "RelativeToolTip": "BanID\\RegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-21T11:55:58.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BanID\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\MainWindow.xaml.cs",
+              "RelativeToolTip": "BanID\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T11:40:11.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\packages.config",
+              "RelativeDocumentMoniker": "BanID\\packages.config",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\packages.config",
+              "RelativeToolTip": "BanID\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-22T14:35:17.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StatementWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\StatementWindow.xaml",
+              "RelativeDocumentMoniker": "BanID\\StatementWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\StatementWindow.xaml",
+              "RelativeToolTip": "BanID\\StatementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-21T11:58:06.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\App.xaml.cs",
+              "RelativeDocumentMoniker": "BanID\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\App.xaml.cs",
+              "RelativeToolTip": "BanID\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T14:35:06.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BanID\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\MainWindow.xaml",
+              "RelativeToolTip": "BanID\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-20T11:40:16.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateRequestWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\CreateRequestWindow.xaml",
+              "RelativeDocumentMoniker": "BanID\\CreateRequestWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\CreateRequestWindow.xaml",
+              "RelativeToolTip": "BanID\\CreateRequestWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-21T11:59:15.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\1078c39bb09b6f4ecea089a7288e7cc8a0cc8239fa8026329de27027ba0a0560\\Application.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\1078c39bb09b6f4ecea089a7288e7cc8a0cc8239fa8026329de27027ba0a0560\\Application.cs",
+              "ToolTip": "C:\\Users\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\1078c39bb09b6f4ecea089a7288e7cc8a0cc8239fa8026329de27027ba0a0560\\Application.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Admin\\AppData\\Local\\Temp\\.vsdbgsrc\\1078c39bb09b6f4ecea089a7288e7cc8a0cc8239fa8026329de27027ba0a0560\\Application.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:35:43.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CaptchaHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\Helpers\\CaptchaHelper.cs",
+              "RelativeDocumentMoniker": "BanID\\Helpers\\CaptchaHelper.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\Helpers\\CaptchaHelper.cs",
+              "RelativeToolTip": "BanID\\Helpers\\CaptchaHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:53:46.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PasswordHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\Helpers\\PasswordHelper.cs",
+              "RelativeDocumentMoniker": "BanID\\Helpers\\PasswordHelper.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\Helpers\\PasswordHelper.cs",
+              "RelativeToolTip": "BanID\\Helpers\\PasswordHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:53:08.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EncryptionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\Helpers\\EncryptionHelper.cs",
+              "RelativeDocumentMoniker": "BanID\\Helpers\\EncryptionHelper.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\Helpers\\EncryptionHelper.cs",
+              "RelativeToolTip": "BanID\\Helpers\\EncryptionHelper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:52:36.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PersonalData.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\Models\\PersonalData.cs",
+              "RelativeDocumentMoniker": "BanID\\Models\\PersonalData.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u043E\u043D\u0442\u043E\u0440\u0430\\\u041A\u043B\u0435\u0432\u0446\u043E\u0432 \u041D \u0423\u041F\\BanID\\BanID\\Models\\PersonalData.cs",
+              "RelativeToolTip": "BanID\\Models\\PersonalData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:51:58.93Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

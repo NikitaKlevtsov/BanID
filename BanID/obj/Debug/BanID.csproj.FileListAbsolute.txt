@@ -1,0 +1,90 @@
+C:\Users\Admin\source\repos\BanID\BanID\bin\Debug\BanID.exe.config
+C:\Users\Admin\source\repos\BanID\BanID\bin\Debug\BanID.exe
+C:\Users\Admin\source\repos\BanID\BanID\bin\Debug\BanID.pdb
+C:\Users\Admin\source\repos\BanID\BanID\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\BanID\BanID\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\BanID\BanID\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\BanID\BanID\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\BanID\BanID\obj\Debug\BanID.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BanID\BanID\obj\Debug\CabinetWindow.baml
+C:\Users\Admin\source\repos\BanID\BanID\obj\Debug\CreateRequestWindow.baml
+C:\Users\Admin\source\repos\BanID\BanID\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\BanID\BanID\obj\Debug\RegisterWindow.baml
+C:\Users\Admin\source\repos\BanID\BanID\obj\Debug\StatementWindow.baml
+C:\Users\Admin\source\repos\BanID\BanID\obj\Debug\CabinetWindow.g.cs
+C:\Users\Admin\source\repos\BanID\BanID\obj\Debug\CreateRequestWindow.g.cs
+C:\Users\Admin\source\repos\BanID\BanID\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\BanID\BanID\obj\Debug\RegisterWindow.g.cs
+C:\Users\Admin\source\repos\BanID\BanID\obj\Debug\StatementWindow.g.cs
+C:\Users\Admin\source\repos\BanID\BanID\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\BanID\BanID\obj\Debug\BanID_Content.g.cs
+C:\Users\Admin\source\repos\BanID\BanID\obj\Debug\BanID_MarkupCompile.cache
+C:\Users\Admin\source\repos\BanID\BanID\obj\Debug\BanID.g.resources
+C:\Users\Admin\source\repos\BanID\BanID\obj\Debug\BanID.Properties.Resources.resources
+C:\Users\Admin\source\repos\BanID\BanID\obj\Debug\BanID.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BanID\BanID\obj\Debug\BanID.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BanID\BanID\obj\Debug\BanID.csproj.Up2Date
+C:\Users\Admin\source\repos\BanID\BanID\obj\Debug\BanID.exe
+C:\Users\Admin\source\repos\BanID\BanID\obj\Debug\BanID.pdb
+C:\Users\Admin\source\repos\BanID\BanID\obj\Debug\BanID.exe.config
+C:\Users\Admin\source\repos\BanID\BanID\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\BanID\BanID\bin\Debug\BanID.exe.config
+C:\Users\User\Desktop\BanID\BanID\bin\Debug\BanID.exe
+C:\Users\User\Desktop\BanID\BanID\bin\Debug\BanID.pdb
+C:\Users\User\Desktop\BanID\BanID\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\BanID\BanID\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\BanID\BanID\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\BanID\BanID\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\BanID\BanID\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\BanID\BanID\obj\Debug\BanID.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BanID\BanID\obj\Debug\BanID.exe.config
+C:\Users\User\Desktop\BanID\BanID\obj\Debug\CabinetWindow.baml
+C:\Users\User\Desktop\BanID\BanID\obj\Debug\CreateRequestWindow.baml
+C:\Users\User\Desktop\BanID\BanID\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\BanID\BanID\obj\Debug\RegisterWindow.baml
+C:\Users\User\Desktop\BanID\BanID\obj\Debug\StatementWindow.baml
+C:\Users\User\Desktop\BanID\BanID\obj\Debug\CabinetWindow.g.cs
+C:\Users\User\Desktop\BanID\BanID\obj\Debug\CreateRequestWindow.g.cs
+C:\Users\User\Desktop\BanID\BanID\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\BanID\BanID\obj\Debug\RegisterWindow.g.cs
+C:\Users\User\Desktop\BanID\BanID\obj\Debug\StatementWindow.g.cs
+C:\Users\User\Desktop\BanID\BanID\obj\Debug\App.g.cs
+C:\Users\User\Desktop\BanID\BanID\obj\Debug\BanID_Content.g.cs
+C:\Users\User\Desktop\BanID\BanID\obj\Debug\BanID_MarkupCompile.cache
+C:\Users\User\Desktop\BanID\BanID\obj\Debug\BanID.g.resources
+C:\Users\User\Desktop\BanID\BanID\obj\Debug\BanID.Properties.Resources.resources
+C:\Users\User\Desktop\BanID\BanID\obj\Debug\BanID.csproj.GenerateResource.cache
+C:\Users\User\Desktop\BanID\BanID\obj\Debug\BanID.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BanID\BanID\obj\Debug\BanID.csproj.Up2Date
+C:\Users\User\Desktop\BanID\BanID\obj\Debug\BanID.exe
+C:\Users\User\Desktop\BanID\BanID\obj\Debug\BanID.pdb
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\bin\Debug\BanID.exe.config
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\bin\Debug\BanID.exe
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\bin\Debug\BanID.pdb
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\obj\Debug\BanID.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\obj\Debug\BanID.exe.config
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\obj\Debug\CabinetWindow.baml
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\obj\Debug\CreateRequestWindow.baml
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\obj\Debug\RegisterWindow.baml
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\obj\Debug\StatementWindow.baml
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\obj\Debug\CabinetWindow.g.cs
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\obj\Debug\CreateRequestWindow.g.cs
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\obj\Debug\RegisterWindow.g.cs
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\obj\Debug\StatementWindow.g.cs
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\obj\Debug\App.g.cs
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\obj\Debug\BanID_Content.g.cs
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\obj\Debug\BanID_MarkupCompile.cache
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\obj\Debug\BanID.g.resources
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\obj\Debug\BanID.Properties.Resources.resources
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\obj\Debug\BanID.csproj.GenerateResource.cache
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\obj\Debug\BanID.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\obj\Debug\BanID.csproj.Up2Date
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\obj\Debug\BanID.exe
+C:\Users\User\Desktop\контора\Клевцов Н УП\BanID\BanID\obj\Debug\BanID.pdb

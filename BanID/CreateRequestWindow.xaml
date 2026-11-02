@@ -1,0 +1,20 @@
+﻿<Window x:Class="BanID.CreateRequestWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Новая заявка" Height="350" Width="400" WindowStartupLocation="CenterOwner">
+    <Grid Margin="10">
+        <StackPanel>
+            <TextBlock Text="Тип заявки"/>
+            <ComboBox x:Name="cmbType" Margin="0,5,0,15">
+                <ComboBoxItem>Открыть вклад</ComboBoxItem>
+                <ComboBoxItem>Открыть счёт</ComboBoxItem>
+                <ComboBoxItem>Сменить данные</ComboBoxItem>
+                <ComboBoxItem>Закрыть счёт</ComboBoxItem>
+                <ComboBoxItem>Закрыть вклад</ComboBoxItem>
+            </ComboBox>
+            <TextBlock Text="Дополнительная информация"/>
+            <TextBox x:Name="txtData" Height="100" TextWrapping="Wrap" AcceptsReturn="True" Margin="0,5,0,15"/>
+            <Button x:Name="btnSend" Content="Отправить заявку" Click="BtnSend_Click" Height="35" Background="#1a1a1a" Foreground="White"/>
+        </StackPanel>
+    </Grid>
+</Window>
